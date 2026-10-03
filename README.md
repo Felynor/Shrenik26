@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Shrenik, a student from India 🇮🇳
+I'm felynor, a student from India 🇮🇳
 
 Currently in Class 11 and leveling up my skills every day.
 
@@ -37,7 +37,7 @@ If I think of something interesting, chances are I'll try to build it 💻
 ## 📫 Contact
 
 Feel free to connect for collaborations or just a tech chat
-Email: shrenikchandra@gmail.com
+Email: connectwithfelynor@duck.com
 
 ---
 
